@@ -82,28 +82,49 @@
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "HonorHealth",
+      "website": "www.honorhealth.com",
+      "position": "Volunteer",
+      "startDate": "2022-03-01",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "Direct patients and family members to the area, person, or service that they need in a service position"
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+      ]
+    },  
+    {
+      "organization": "Psi Chi, the International Honors Society for Psychology",
+      "website": "www.psichi.org",
+      "position": "Director of Community Outreach",
+      "startDate": "2021-05-01",
+      "endDate": "2022-05-01",
+      "summary": "A member of Psi Chi, the International Honors Society for Psychology, since 2020, I was able to plan accessible and inclusive events that allowed for direct outreach in the community",
+      "highlights": [
+        "General Member, 2020-Present",
+        "Director of Community Outreach at Arizona State University, 2021-2022",
+        "As Director of Community Outreach, I worked with other members of the Psi Chi Board to create budgets for volunteer events and spread interest about them"
+        ]
+    },
+    {
+      "organization": "Disability Awareness and Advocacy Committee",
+      "website": "",
+      "position": "Co-Chair",
+      "startDate": "2018-08-01",
+      "endDate": "2019-05-01",
+      "summary": "Brought issues regarding students with disabilities at Arizona State University to the administration, student government, or facilitated another form of communication"
+      "highlights": [
       ]
     },
     {
-      "organization": "",
+      "organization": "Psi Chi International at Arizona State University",
       "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "position": "Director of Community Outreach",
+      "startDate": "2021-05-01",
+      "endDate": "2022-05-01",
+      "summary": "A member of Psi Chi, the International Honors Society for Psychology, since 2020, I was able to plan accessible and inclusive events that allowed for direct outreach in the community",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "General Member, 2020-Present",
+        "Director of Community Outreach at Arizona State University, 2021-2022",
+        "As Director of Community Outreach, I worked with other members of the Psi Chi Board to create budgets for volunteer events and spread interest about them"
       ]
     }
   ],
