@@ -30,7 +30,7 @@
   ],
   "education": [
     {
-      "institution": "Arizona State University, Tempe, AZ, United States",
+      "institution": "Barrett, the Honors College at Arizona State University, Tempe, AZ, United States",
       "area": "Psychology and Anthropology",
       "studyType": "B.S.",
       "startDate": "2018-08-01",
@@ -126,16 +126,22 @@
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Division 52 Student Member APA Convention Registration Award",
+      "date": "2022",
+      "awarder": "American Psychological Association, Division 52 for International Psychology",
+      "summary": "Awarded to students who are international or demonstrate an interest in international psychology"
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Nominated to Present Research at the Helios Symposium",
+      "date": "2021",
+      "awarder": "Translational Genomics Research Institute, part of City of Hope",
+      "summary": "Chosen by the Neurogenomics Division to give a ten minute presentation on my research as a Helios Scholar"
+    },
+    {
+      "title": "New American University Provost's Scholarship",
+      "date": "2018-2022",
+      "awarder": "Arizona State University",
+      "summary": "Scholarships awarded to incoming freshmen and continuing students who have a certain GPA and ACT/SAT score and maintain their GPA during college"
     }
   ],
   "references": [
