@@ -14,7 +14,7 @@ labels:
 summary: "A project completed for graduation from Barrett, the Honors College, this study collected empirical data to test whether viewing nature photos would result in less negative affect compared to viewing social media, and if this would potentially work as an intervention for negative effects of social media."
 ---
 
-<img class="img-fluid" src="../img/niagarafalls-home-page.png">
+<img class="img-fluid" src="../img/niagarafalls.png">
 
 This project is based in psychology and included preregistration on the [Open Science Forum](https://osf.io/r68aj/) where methods and data are stored and can be requested. The project helped me learn basic scientific writing skills, the process of IRB submissions and online data collection, and a vast amount of research methodology.
 
