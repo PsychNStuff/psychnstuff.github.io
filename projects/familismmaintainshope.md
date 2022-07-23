@@ -1,8 +1,8 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
-title: "Micromouse"
+image: img/SPSP21.jpg
+title: "Familism Maintains Hope Despite Loss of Relatedness to the Future Self"
 date: 2021
 published: true
 labels:
@@ -13,7 +13,7 @@ labels:
 summary: "I used longitudinal data collected before and after the COVID-19 pandemic to examine the relationship between hope, the future self, and familism."
 ---
 
-<img class="img-fluid" src="../img/SPSP21.png">
+<img class="img-fluid" src="../img/SPSP21.jpg">
 
 Familism is the sense of responsibility, care, and belonging that people feel toward their families. It has been associated with better overall outcomes for youth. The temporal self and familism have been heavily studied in regards to education and decision-making. However, when the pandemic began, the future became very uncertain, so it was thought that hope, which is heavily associated with better psychological well-being, may deteriorate. This study examined whether familism, which would provide support and a reason to continue to have hope, may allow young adults to remain hopeful in dire circumstances.
 
