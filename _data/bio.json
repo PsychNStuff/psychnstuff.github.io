@@ -41,27 +41,42 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "Translational Genomics Research Institute, a part of City of Hope",
+      "position": "Associate Bioinformatician",
+      "website": "www.tgen.org",
+      "startDate": "2021-06-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Began as a Helios Scholar in 2021, became an intern, and currently work full time in the Neurogenomics Division",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Helios Scholar, June 2021-August 2021"
+        "Bioinformatics Intern, August 2021-June 2022"
+        "Associate Bioinformatician, June 2022-Present"
+        "Presented a poster on an eight week long project on transposable elements in cerebrospinal fluid",
+        "Learned and applied knowledge about R, Jinja2, BASH, and molecular biology rapidly and efficiently"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "Culture and Decision Science Network Lab",
+      "position": "Research Assistant",
+      "website": "",
+      "startDate": "2019-09-01",
+      "endDate": "2022-04-22",
+      "summary": "Learned about and applied research methods related to personality and social psychology through multiple projects",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Presented a poster on familism moderating the relationship between hope and loss of relatedness to the future self during the COVID-19 pandemic based on results of a longitudinal study",
+        "Wrote, defended, and presented a poster on my undergraduate thesis, in which I collected data through Amazon Mechanical Turk to find out if nature acts as a buffer to potential negative effects of social media"
+      ]
+    },
+    {
+      "company": "Evolution, Ecology, and Social Behavior Lab",
+      "position": "Research Assistant",
+      "website": "",
+      "startDate": "2020-07-01",
+      "endDate": "2021-12-01",
+      "summary": "Assisted in behavioral data collection and literature reviews",
+      "highlights": [
+        "Discussed psychology articles from an evolutionary perspective",
+        "Assisted in formatting a standardized way to collect data online"
       ]
     }
   ],
