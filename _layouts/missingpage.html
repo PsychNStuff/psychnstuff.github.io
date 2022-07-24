@@ -11,8 +11,8 @@ layout: default
 
     <h3>Papers</h3>
     <ul>
-      {% assign essay_pages = site.pages | where: "type", "papers" | sort: "date" | reverse %}
-      {% for page in essay_pages %}
+      {% assign paper_pages = site.pages | where: "type", "papers" | sort: "date" | reverse %}
+      {% for page in paper_pages %}
       <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
       {% endfor %}
     </ul>
