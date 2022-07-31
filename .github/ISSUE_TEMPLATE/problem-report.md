@@ -1,6 +1,6 @@
 ---
-name: Problem Report
-about: For communicating problems creating your professional portfolio
+name: Not really a problem, just a question: SEO for techfolios
+about: I noticed that I have my website set up the way I'd like it, but it doesn't appear in search engines. I tried jekyll-seo-tag but it looks like since techfolios uses Jekyll, that won't work; would it be best to open a new Jekyll workflow and integrate it through -jekyll-seo or to add tags? I'm not sure, new to Jekyll, and am uncertain if other techfolio users have tried this before (but there is a first for everything). [Here's my repository if you need it](https://github.com/PsychNStuff/psychnstuff.github.io)
 title: ''
 labels: ''
 assignees: ''
