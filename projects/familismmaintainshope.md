@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/SPSP21.jpg
+image: img/family-square.jpg
 title: "Familism Maintains Hope Despite Loss of Relatedness to the Future Self"
 date: 2021
 published: true
