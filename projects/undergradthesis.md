@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/niagarafalls.png
+image: img/nature-square.jpg
 title: "A Brief Exposure to Nature or Social Media on Psychological Well-Being"
 date: 2021
 published: true
