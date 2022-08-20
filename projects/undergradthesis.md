@@ -11,7 +11,7 @@ labels:
   - Scientific Writing
   - Open Science
   - Psychology
-summary: "A project completed for graduation from Barrett, the Honors College, this study collected empirical data to test whether viewing nature photos would result in less negative affect compared to viewing social media, and if this would potentially work as an intervention for negative effects of social media."
+summary: "This study collected empirical data to test whether viewing nature photos would result in less negative affect compared to viewing social media, and if this would potentially work as an intervention for negative effects of social media."
 ---
 
 <img class="img-fluid" src="../img/APA22_Poster.jpg">
