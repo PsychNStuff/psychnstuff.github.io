@@ -26,6 +26,7 @@ exclude:
   - LICENSE
   - README.md
   - bio.json
+  - cv.html
 include:
   - .nojekyll
   - _data
