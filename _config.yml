@@ -25,6 +25,7 @@ exclude:
   - Gemfile.lock
   - LICENSE
   - README.md
+  - bio.json
 include:
   - .nojekyll
   - _data
