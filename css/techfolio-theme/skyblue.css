@@ -15,10 +15,10 @@
   --bs-link-color: var(--tf-blue1);
   --tf-pill-bg: var(--tf-blue3);
   --tf-icon-fill: var(--tf-blue1);
-  --tf-page-bg-color: var(--bs-blue4);
+  --tf-page-bg-color: var(--tf-blue4);
   --tf-footer-bg-color: var(--tf-blue4);
   --tf-projects-bg-color: var(--tf-blue4);
-  --tf-papers-bg-color: var(--bs-blue4);
+  --tf-papers-bg-color: var(--tf-blue4);
 }
 
 h1,h2,h3,h4,h5 {
