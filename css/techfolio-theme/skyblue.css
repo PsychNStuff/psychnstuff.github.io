@@ -11,6 +11,7 @@
   --tf-blue2: #1b6fa9;
   --tf-blue3: #2f8ed0;
   --tf-blue4: #bde3f0;
+  --tf-testblue: #7bafed;
   --bs-font-sans-serif: "Rubik";
   --bs-link-color: var(--tf-blue4);
   --tf-pill-bg: var(--tf-blue3);
@@ -22,7 +23,7 @@
 }
 
 p {
-  color: var(--tf-blue3);
+  color: var(--tf-testblue);
   font-family: Rubik;
 }
 
