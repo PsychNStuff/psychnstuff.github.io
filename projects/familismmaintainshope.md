@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/family-square.jpg
-alt: two toddlers and an adult male and an adult female, all of whom are dressed casually, walk along the sidewalk holding hands
+alt: two adults and two toddlers walk along the sidewalk holding hands
 title: "Familism Maintains Hope Despite Loss of Relatedness to the Future Self"
 date: 2021
 published: true
