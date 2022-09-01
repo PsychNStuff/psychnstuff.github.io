@@ -14,7 +14,7 @@ labels:
 summary: "This study collected empirical data to test whether viewing nature photos would result in less negative affect compared to viewing social media, and if this would potentially work as an intervention for negative effects of social media."
 ---
 
-<img class="img-fluid" src="../img/APA22_Poster.jpg">
+<img class="img-fluid" src="../img/APA22_Poster.jpg" alt="A scientific poster with a green background, graphs, and emojis displayed">
 
 Have you ever marveled at the sight of a beautiful beach, a grand forest, or a deep canyon? Have you been stuck scrolling through social media, stressfully comparing yourself and your accomplishments to that of others around you? I have done both of these things.
 
