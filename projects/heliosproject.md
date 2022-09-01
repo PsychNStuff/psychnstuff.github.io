@@ -19,7 +19,7 @@ summary: "Conducted bioinformatics research over an eight-week period that looke
 
 <img class="img-fluid" src="../img/computer-helios.jpg" alt="glasses in front of a computer screen with lines of code displayed">
 
-I was part of the Helios Scholars program through the [Helios Education Foundation](www.helios.org) and the [Translational Genomics Research Institute](www.tgen.org), a part of [City of Hope](www.cityofhope.org). During this program, I worked on a research project in bioinformatics.
+I was part of the Helios Scholars program through the [Helios Education Foundation](https://www.helios.org/) and the [Translational Genomics Research Institute](https://www.tgen.org/), a part of [City of Hope](https://www.cityofhope.org/). During this program, I worked on a research project in bioinformatics.
 
 I looked into RNA in cerebrospinal fluid, which is extremely sparse. One ongoing question for those in neurogenomics is to understand what is in CSF. We know that there is something in the transcriptome that is mapping to something in the genome, but much of it is not understood, or "hidden" due to this sparcity. My project specifically looked at integrating the [TEtoolkit suite](https://hammelllab.labsites.cshl.edu/software/) in a Jinja2 pipeline and analyzing the outpute of this pipeline using [Bioconductor](https://www.bioconductor.org/) in R.
 
