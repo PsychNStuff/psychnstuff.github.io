@@ -2,7 +2,7 @@
 # Edit next line to provide your own name.
 title: Megan Hall | Professional Portfolio
 # Edit next line, replacing 'techfolios' with your github username
-url: "https://psychnstuff.github.io"
+url: "https://www.meganchall.com"
 # Edit next line so that baseurl is "" if your repo is <username>.github.io
 baseurl: ""
 
@@ -26,7 +26,6 @@ exclude:
   - LICENSE
   - README.md
   - bio.json
-  - cv.html
 include:
   - .nojekyll
   - _data
