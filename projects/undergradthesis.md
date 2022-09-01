@@ -2,6 +2,7 @@
 layout: project
 type: project
 image: img/nature-square.jpg
+alt: A landscape photo of mountains, trees, and a river flowing through
 title: "A Brief Exposure to Nature or Social Media on Psychological Well-Being"
 date: 2021
 published: true
