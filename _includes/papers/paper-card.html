@@ -1,7 +1,7 @@
 {% seo %}
 <div class="col-md-6 col-lg-4" xmlns="http://www.w3.org/1999/html">
-  <div class="card h-100">
-    <div style="background-color: var(--tf-page-bg-color)" class="card-body">
+  <div style="background-color: var(--tf-page-bg-color)" class="card h-100">
+    <div class="card-body">
       <h5 class="card-title">{{ include.page.title }}</h5>
       <p class="card-text">{{ include.page.content | markdownify }}</p>
       <p>
@@ -11,7 +11,7 @@
       </p>
     </div>
     <div class="card-footer">
-      <div class="text-center"><a href="{% if page.paperurl %}{{ page.paperurl }}{% else %}{{ site.baseurl}}{{ include.page.url }}{% endif %}" class="btn btn-outline-dark">Full Article</a></div>
+      <div class="text-center"><a href="{% if page.paperurl %}{{ page.paperurl }}{% else %}{{ site.baseurl}}{{ include.page.url }}{% endif %}" class="btn btn-outline-light">Full Article</a></div>
     </div>
   </div>
 </div>
