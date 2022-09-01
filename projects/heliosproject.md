@@ -2,6 +2,7 @@
 layout: project
 type: project
 image: img/computer-helios.jpg
+alt: glasses are placed in front of a computer with lines of code
 title: "The hidden transcriptome in cerebrospinal fluid and an exploration of its role in Parkinson’s disease"
 date: 2021
 published: true
