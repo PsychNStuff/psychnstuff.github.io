@@ -17,7 +17,7 @@ labels:
 summary: "Conducted bioinformatics research over an eight-week period that looked into whether transposable elements make up part of the transcriptome that remains unmapped and whether transposable elements act as a potential biomarker in Parkinson's disease."
 ---
 
-<img class="img-fluid" src="../img/computer-helios.jpg">
+<img class="img-fluid" src="../img/computer-helios.jpg" alt="glasses in front of a computer screen with lines of code displayed">
 
 I was part of the Helios Scholars program through the [Helios Education Foundation](www.helios.org) and the [Translational Genomics Research Institute](www.tgen.org), a part of [City of Hope](www.cityofhope.org). During this program, I worked on a research project in bioinformatics.
 
