@@ -29,4 +29,4 @@ As this code is part of a larger project, I cannot provide it. Instead, here is 
 
 {% gist dfe23b17333c95f04752c2642135859d %}
  
-Source: <a href="https://github.com/PsychNStuff/BioNStuff/blob/main/Bioconductor_Basics.R">PsychNStuff/BioNStuff/blob/main/Bioconductor_Basics.R</a>
+See <a href="https://github.com/PsychNStuff/BioNStuff/blob/main/Bioconductor_Basics.R">PsychNStuff/BioNStuff</a> for more!
