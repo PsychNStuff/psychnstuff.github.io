@@ -11,7 +11,7 @@ labels:
   - Future Self
   - Poster
   - COVID-19
-summary: "I used longitudinal data collected before and after the COVID-19 pandemic to examine the relationship between hope, the future self, and familism."
+summary: "I used longitudinal data collected before and after the COVID-19 pandemic to examine the relationship between hope, the future self, and familism; realizing that I was interested in culture, I joined APA's Division 52 for International Psychology, and helped with research on the COVID-19 pandemic and how it was affecting certain populations and countries disproportionately."
 ---
 
 <img class="img-fluid" src="../img/SPSP21.jpg" alt="poster with a black background and blue elements displaying overlapping circles between the current self and future self and a diagram with a line with an arrow pointing from loss of relatedness to hope, with familism pointing to the middle of the line">
