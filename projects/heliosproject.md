@@ -17,7 +17,7 @@ labels:
   - Parkinson's Disease
   - Alzheimer's Disease
   - Schizophrenia
-summary: "Conducted bioinformatics research over an eight-week period that looked into whether transposable elements make up part of the transcriptome that remains unmapped and whether transposable elements act as a potential biomarker in Parkinson's disease."
+summary: "I began learning about bioinformatics through the Helios Scholars program, an eight-week program that led to the completion of a project. Afterwards, I continued research in Neurogenomics, looking at the transcriptome, sparsity of biofluids, and looking into neurological disorders."
 ---
 
 <img class="img-fluid" src="../img/computer-helios.jpg" alt="glasses in front of a computer screen with lines of code displayed">
