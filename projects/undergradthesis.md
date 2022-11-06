@@ -12,14 +12,14 @@ labels:
   - Scientific Writing
   - Open Science
   - Psychology
-summary: "My undergraduate honors thesis was in social and personality psychology, and I was an RA in Dr. Virginia Kwan's Culture and Decision Science Network lab where I completed this thesis for over two years. I collected empirical data to test whether viewing nature photos would result in less negative affect compared to viewing social media, and if this would potentially work as an intervention for negative effects of social media."
+summary: "My undergraduate honors thesis was in social and personality psychology. I collected empirical data to test whether viewing nature photos would result in less negative affect compared to viewing social media, and if this would potentially work as an intervention for negative effects of social media."
 ---
 
 <img class="img-fluid" src="../img/APA22_Poster.jpg" alt="A scientific poster with a green background, graphs, and emojis displayed">
 
 Have you ever marveled at the sight of a beautiful beach, a grand forest, or a deep canyon? Have you been stuck scrolling through social media, stressfully comparing yourself and your accomplishments to that of others around you? I have done both of these things.
 
-For my undergraduate thesis, I wanted to study the effects of nature, when viewed online, on psychological well-being. Specifically, I wanted to know if spending time on social media caused negative effects for psychological well-being, and if so, whether viewing photos of nature could mitigate this effect.
+I had already been a research assistant in Dr. Virginia Kwan's Culture and Decision Science Network lab for over two years before I began working on my undergraduate thesis. Based on my observation of others my age spending much of their time on social media and less time in nature, I wanted to study the effects of nature, when viewed online, on psychological well-being. Specifically, I wanted to know if spending time on social media caused negative effects for psychological well-being, and if so, whether viewing photos of nature could mitigate this effect.
 
 This was important to me because now, youth spend more of their time online, especially on social media. In addition, many people with disabilities or who are elderly cannot go outside, and it is not as though many people are economically able to visit a beautiful forest often as most working adults live in the city. A low-cost intervention that relieves the stress of social media and is accessible through technology would be helpful.
 
