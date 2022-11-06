@@ -12,7 +12,7 @@ labels:
   - Scientific Writing
   - Open Science
   - Psychology
-summary: "My undergraduate honors thesis was in social and personality psychology, and I was an RA in the lab where I completed this thesis for over two years. I collected empirical data to test whether viewing nature photos would result in less negative affect compared to viewing social media, and if this would potentially work as an intervention for negative effects of social media."
+summary: "My undergraduate honors thesis was in social and personality psychology, and I was an RA in Dr. Virginia Kwan's Culture and Decision Science Network lab where I completed this thesis for over two years. I collected empirical data to test whether viewing nature photos would result in less negative affect compared to viewing social media, and if this would potentially work as an intervention for negative effects of social media."
 ---
 
 <img class="img-fluid" src="../img/APA22_Poster.jpg" alt="A scientific poster with a green background, graphs, and emojis displayed">
