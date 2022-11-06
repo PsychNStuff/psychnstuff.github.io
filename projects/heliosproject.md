@@ -15,6 +15,8 @@ labels:
   - Jinja2
   - Bioconductor
   - Parkinson's Disease
+  - Alzheimer's Disease
+  - Schizophrenia
 summary: "Conducted bioinformatics research over an eight-week period that looked into whether transposable elements make up part of the transcriptome that remains unmapped and whether transposable elements act as a potential biomarker in Parkinson's disease."
 ---
 
@@ -26,7 +28,9 @@ I looked into RNA in cerebrospinal fluid, which is extremely sparse. One ongoing
 
 We wanted to know if transposable elements acted as potential biomarkers for Parkinson's disease, so analyses using DESeq2, pheatmap, and EnhancedVolcanoPlot compared those diagnosed with PD and healthy controls. Results require further analysis, but transposable elements were found in CSF. The abstract submitted for this project can be found on [TGen's website](https://www.tgen.org/education/alumni/2021/megan-hall/).
 
-As this code is part of a larger project, I cannot provide it. Instead, here is some deidentified code to illustrate how DESeq2 is used:
+After my work as a Helios Scholar was over, I became an intern and now work full-time at TGen. I have since worked with data related to neurodegenerative diseases such as Alzheimer's and Parkinson's Disease, Schizophrenia, and helped with projects related to ALS and COPD amongst many other diseases. I have also had the opportunity to look at RNA-seq data in many types of biofluid and tissue, such as urine, plasma, and CSF. Further, I have learned to use many packages with R programming and have helped to further add to our bioinformatics pipeline.
+
+This is an example of some deidentified code to illustrate how DESeq2 is used:
 
 {% gist dfe23b17333c95f04752c2642135859d %}
  
