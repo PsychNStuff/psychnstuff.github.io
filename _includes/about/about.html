@@ -17,6 +17,7 @@
           {% endfor %}
         </p>
         <hr class="my-4">
+          <a rel="me" href="https://mas.to/@ScienceisWhere">Mastodon</a>
         <div class="row">
 
           {% if site.data.bio.basics.website %}
@@ -30,7 +31,6 @@
             {% capture url %}mailto:{{ site.data.bio.basics.email }}{% endcapture %}
             <div class="col text-center">
               {% include about/social.html url=url name='envelope' %}
-              <a rel="me" href="https://mas.to/@ScienceisWhere">Mastodon</a>
             </div>
           {% endif %}
 
