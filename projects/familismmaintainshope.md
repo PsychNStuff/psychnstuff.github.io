@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/family-square.jpg
 alt: two adults and two toddlers walk along the sidewalk holding hands
-title: "Cultural Psychology and International Psychology"
+title: "Cultural and International Psychology"
 date: 2021
 published: true
 labels:
@@ -26,4 +26,4 @@ Second, familism would act as a buffer, or would moderate this relationship.
 
 Both hypotheses were found to be correct. Findings were presented at the Society of Social and Personality Psychology 2021. Analyses were not preregistered, but the poster and abstract can be found online through the [Open Science Forum](https://osf.io/nytpu/).
 
-I became more invested in International Psychology as time passed, and joined the American Psychological Association's Division 52 for International Psychology. I was interested in helping with further research on the effects of the pandemic worldwide, and began coding articles on the effects of COVID-19 worldwide for Division 52's COVID-19 Response Team. This research has been presented at a symposium and through a paper, and a book with more details is currently in-progress.
+I became more invested in International Psychology as time passed, and joined the American Psychological Association's Division 52 for International Psychology. I was interested in helping with further research on the effects of the pandemic worldwide, and began coding articles on the effects of COVID-19 worldwide for Division 52's COVID-19 Response Team. This research has been presented at a symposium and through a paper, and a book with the details of the research this group worked on is estimated to be published in April, 2023. I worked on a chapter about COVID-19 prevention and ethics; something I have found important through learning about bioethics in my work at TGen.
