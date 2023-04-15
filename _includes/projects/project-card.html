@@ -2,7 +2,21 @@
 <div style="background-color: var(--tf-page-bg-color)" class="card mb-3">
   <div class="row g-0">
     <div class="col-sm-6 col-md-4">
-      <img src="{{ site.baseurl }}/{{ include.page.image }}" height="225px" class="rounded-start" alt="{{ include.page.alt }}">
+      <style>
+      img {
+        height: 250px;
+        max-height: 100%;
+      }
+      .container {
+        width: 100%;
+        height: 250px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <img src="{{ site.baseurl }}/{{ include.page.image }}" class="rounded-start" alt="{{ include.page.alt }}">
+    </div>
     </div>
     <div class="col-sm-6 col-md-8">
       <div class="card-body">
