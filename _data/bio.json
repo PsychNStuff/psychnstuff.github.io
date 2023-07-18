@@ -9,7 +9,7 @@
     "profiles": [
       { "network": "github", "username": "PsychNStuff", "url": "http://github.com/PsychNStuff" },
       { "network": "linkedin", "username": "mhallpsych", "url": "http://linkedin.com/in/mhallpsych" },
-      { "network": "mastodon", "username": "ScienceisWhere", "url": "https://genomic.social/@ScienceisWhere" }
+      { "network": "mastodon", "username": "ScienceisWhere", "url": "https://neuromatch.social/@ScienceisWhere" }
       { "network": "twitter", "username": "ScienceisWhere", "url": "https://twitter.com/ScienceisWhere" }
     ]
   }
