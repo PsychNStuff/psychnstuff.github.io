@@ -1,10 +1,10 @@
 ---
-name: A couple of things appear to be deprecated
-about: It appears that some things need to be updated in Jekyll.
+name: gem install bundler fails
+about: software conflict prevents commits from being pushed
 title: ''
 labels: ''
 assignees: ''
 
 ---
 
-I'm getting errors about the Node.js 12 being deprecated, save-state output being deprecated, and the set-output command being deprecated; things that appear to be in the workflow that I cannot fix myself. github.com/psychnstuff/Psychnstuff.github.io if you need my repo, no errors yet.
+I receive this error after pushing a commit: Your RubyGems version (3.0.3) has a bug that prevents `required_ruby_version` from working for Bundler. Any scripts that use `gem install bundler` will break as soon as Bundler drops support for your Ruby version. Please upgrade RubyGems to avoid future breakage and silence this warning by running `gem update --system 3.2.3`
