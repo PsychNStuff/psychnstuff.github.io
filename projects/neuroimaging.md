@@ -12,7 +12,10 @@ labels:
   - Scientific Writing
   - Neuroscience
   - Psychology
+  - Neuropsychological Assessment
 summary: "I currently work with neuroimaging data and neuropsychological assessment to better understand cognitive aging"
 ---
 
-At the DICoN Lab, I work with magnetoencephalography (MEG) data and neuropsychological assessment information. Typically, I examine tasks related to language, memory, and attention, all of which are interesting to me in the context of aging. More to come in the future!
+<img class="img-fluid" src="../img/workingmemoryspectrograms.jpg" alt="time-frequency spectrograms and spatial maps for a working memory task">
+
+At the [DICoN Lab](https://www.instituteforhumanneuroscience.org/dicon-lab), I work with [magnetoencephalography (MEG)](https://knowingneurons.com/blog/2024/09/24/meg-neurosurgery/) data and neuropsychological assessment information. Typically, I examine tasks related to language, memory, and attention, all of which are interesting to me in the context of aging. My most recent publication for this is on working memory, and I am currently working on a semantic judgement dataset!
