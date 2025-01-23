@@ -11,6 +11,7 @@ labels:
   - Data Collection
   - Scientific Writing
   - Neuroscience
+  - Neuroimaging
   - Psychology
   - Neuropsychological Assessment
 summary: "I currently work with neuroimaging data and neuropsychological assessment to better understand cognitive aging"
@@ -18,4 +19,6 @@ summary: "I currently work with neuroimaging data and neuropsychological assessm
 
 <img class="img-fluid" src="../img/workingmemoryspectrograms.jpg" alt="time-frequency spectrograms and spatial maps for a working memory task">
 
-At the [DICoN Lab](https://www.instituteforhumanneuroscience.org/dicon-lab), I work with [magnetoencephalography (MEG)](https://knowingneurons.com/blog/2024/09/24/meg-neurosurgery/) data and neuropsychological assessment information. Typically, I examine tasks related to language, memory, and attention, all of which are interesting to me in the context of aging. My most recent publication for this is on working memory, and I am currently working on a semantic judgement dataset!
+At the [DICoN Lab](https://www.instituteforhumanneuroscience.org/dicon-lab), I work with [magnetoencephalography (MEG)](https://knowingneurons.com/blog/2024/09/24/meg-neurosurgery/), T1-weighted and T2-weighted structural MRI, and neuropsychological assessments of learning, memory, processing speed, language, and executive function. My most recent publication from the DICoN Lab is on working memory in young healthy adults, and I am currently working with task-based MEG data (specifically, a semantic judgement task) in adults ages 21-87. Next, I'm excited to start working on a project utilizing neuroimaging data and neuropsychological assessment in healthy adults and those diagnosed with Alzheimer's disease or mild cognitive impairment (AD/MCI).
+
+In addition to analysing data and writing papers, I have had the opportunity to adminsiter full neuropsychological assessments, the Montreal Cognitive Assessment (MoCA), and the Mini-Mental State Examination (MMSE) for research purposes in healthy adults, those diagnosed with AD/MCI, those diagnosed with HIV, and substance users (specifically cannabis and methamphetamine).
