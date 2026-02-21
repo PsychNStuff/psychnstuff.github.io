@@ -14,7 +14,7 @@ labels:
   - Neuroimaging
   - Psychology
   - Neuropsychological Assessment
-summary: "I currently work with neuroimaging data and neuropsychological assessment to better understand cognitive aging"
+summary: "I currently work with neuroimaging data (magnetoencephalography and structural MRI) and neuropsychological assessment to better understand cognitive aging."
 ---
 
 <img class="img-fluid" src="../img/workingmemoryspectrograms.jpg" alt="time-frequency spectrograms and spatial maps for a working memory task">
